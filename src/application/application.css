@@ -1,1 +1,6 @@
 /* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#munchkin_board {
+  -fx-background-image: url('../image/munchkin_board.jpg');
+  -fx-pref-height: 700;
+  -fx-pref-width: 360;
+}
